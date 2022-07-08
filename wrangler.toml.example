@@ -1,0 +1,14 @@
+account_id = ""
+name = ""
+type = "webpack"
+workers_dev = true
+main = "worker/index.js"
+
+site = { bucket = "./build" }
+
+[env.production]
+# The ID of the domain to deploying to
+zone_id = ""
+
+# The route pattern your Workers application will be served at
+route = ""
