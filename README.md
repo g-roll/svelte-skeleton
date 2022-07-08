@@ -1,4 +1,4 @@
-# SvelteKit Skeleton w/ CF Worker for Jamstack Apps
+# SvelteKit Skeleton w/ CF Worker and Tailwind CSS for Static Apps
 
 ## Prerequisite
 
