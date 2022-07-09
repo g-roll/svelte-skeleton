@@ -8,6 +8,7 @@ node_modules
 !.env.example
 package-lock.json
 /test
-wrangler.toml
-!wrangler.toml.example
-/worker-site
+/worker/wrangler.toml
+/worker/!wrangler.toml.example
+/worker/worker-site
+/worker/dist

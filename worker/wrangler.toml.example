@@ -2,9 +2,8 @@ account_id = ""
 name = ""
 type = "webpack"
 workers_dev = true
-main = "worker/index.js"
 
-site = { bucket = "./build" }
+site = { bucket = "../build" }
 
 [env.production]
 # The ID of the domain to deploying to
